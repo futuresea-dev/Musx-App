@@ -1,0 +1,14 @@
+.selected {
+  background-image: linear-gradient(#27d7ff, #31fda8) !important;
+  background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  -moz-background-clip: text !important;
+  -moz-text-fill-color: transparent !important;
+
+  font-size: 18px !important;
+  font-weight: 800 !important;
+  font-family: "Poppins", sans-serif;
+}
+.MuiListItem-button:hover {
+  background-color: transparent !important;
+}
